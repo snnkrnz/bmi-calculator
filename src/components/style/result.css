@@ -1,0 +1,8 @@
+.resultdiv {
+    background-color: rgb(54, 54, 54);
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 2px solid teal;
+}

@@ -1,0 +1,47 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color:  wheat;
+    width: 50%;
+    /*rgb(81, 177, 94);*/
+    border-radius: 0.3rem;
+    border: 4px solid teal;
+}
+h1{
+    flex:3;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 5rem;
+    color: teal;
+}
+div{
+    
+    list-style-type: none;
+    flex:2;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    
+    
+}
+ul{
+    list-style-type: none;
+    align-items: flex-end;
+    
+}
+li{
+   margin: 0.3rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+}
+a:hover{
+    background-color: rgb(185, 173, 214);
+    color: white;
+}
+
